@@ -2,6 +2,8 @@
 * 3-6 pm Pacific / 6-9 pm Eastern
 * Doodle poll for additional scheduling:
   * https://doodle.com/meeting/organize/id/dJy327vb
+* To follow along in the cloud (no download necessary)
+  * https://mybinder.org/v2/gh/davewadestein/Learn-to-Code-Cohort-1/HEAD
 * How to download the materials:
   * go to https://github.com/davewadestein/Learn-to-Code-Cohort-1
   * click GREEN "Code" button
@@ -12,5 +14,3 @@
 * Anaconda–a free distribution of Python (www.anaconda.com)
   * installers available for Mac, Windows, Linux
   * try downloading and installing–Anaconda Navigator should be available in Start Menu (Windows) or Applications Folder (Mac)
-* Microsoft Visual Studio (https://code.visualstudio.com/)
-  * free download, works on all platforms
