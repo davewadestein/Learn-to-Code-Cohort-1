@@ -18,4 +18,30 @@
     * space the computer can work with while it's turned on (e.g., applications live in RAM when they are running)
     * 16 GB RAM = 16 Billion bytes or characters worth of "work space"
   
- * to be continued
+## What is an executable/program/application (e.g., Google Chrome)?
+* a series of _instructions_ in a language that the CPU understands
+   * that language is called "assembly language" or "machine language"
+
+* applications (runnable code) are stored on your hard drive, just like any other file
+* when you double click (or otherwise launch an application)
+  * the OS (Windows, Mac, Linux) loads the application into memory (RAM)
+  * the CPU begins running it
+    * that is, the CPU decodes each instruction and does what it is told
+    * instructions are of two types
+      * _load/store_ = move memory to/from the CPU
+      * _operational_ = arithmetic or other operations on the data in the CPU
+
+## What is Computer Programming (Coding)?
+* a process that begins with the formulation of a (computing) problem and ends with the creation of an runnable computer program
+* a _program_ is a set of statements or instructions that tells the computer what to do
+* in order to write a program, programmers often begin with an algorithm
+  * an _algorithm_ is a set of rules to be followed to solve a problem (usually, but not always by a computer)
+    * e.g., an algorithm for converting Fahrenheit temperatures into Celsius:
+       * subtract 32 from the Fahrenheit temperature
+       * multiply the result by 5/9
+* _pseudocode_ is a notation resembling a simplified programming language
+  * it's often a mixture of English and real programming language constructs
+  * we will always write pseudocode _BEFORE_ writing any code
+  * you will want to jump right in and code w/o writing pseudocode...just don't
+    * otherwise you will end up with a non-working program with no understanding of how you got there!
+  * _every_ line of code you write as a _purpose_ and you should be able to relate that purpose back to the pseudocode or steps that you previously wrote down
